@@ -608,7 +608,7 @@ nlu:
       - \d{8}
 - regex: card_number
   examples: |
-      - \b\d{10}\b
+      - \d{10}
 - regex: cheque_number
   examples: |
       - \d{6}
