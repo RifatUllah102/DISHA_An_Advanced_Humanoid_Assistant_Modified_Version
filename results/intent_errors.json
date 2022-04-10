@@ -1,0 +1,18 @@
+[
+  {
+    "text": "কন্টিনিউ করতে চাই",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "Repeat",
+      "confidence": 0.34190845489501953
+    }
+  },
+  {
+    "text": "কন্টিনিউ করতে চায়",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "Repeat",
+      "confidence": 0.3187759220600128
+    }
+  }
+]
